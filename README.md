@@ -3,7 +3,7 @@
 
 ### IRCTC-API
 
-Hi, I am Teja Chinitha, currently pursuing my final year in computer science at Vellore Institute of Technology. Apart from this project, I have 2 years of exposure in the Software domain and completed 3-4 internships in software engineering and mobile application development. Below are a few of my coding profiles and project links:
+Hi, I am Teja Chinitha, currently pursuing my final year in computer science at Vellore Institute of Technology. Apart from this project, I have 2 years of exposure in the Software domain and completed 3-4 internships in software engineering and mobile application development. Below are a few of my coding profiles and project links:-
 
 - [Leetcode Profile](https://leetcode.com/Teja_07/)
 - [GeeksforGeek Profile](https://auth.geeksforgeeks.org/user/chinthateja07)
